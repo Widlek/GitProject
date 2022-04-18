@@ -1,5 +1,5 @@
 ﻿#include "Student.h"
-#include "Group.h"
+#include "GroupHeader.h"
 
 int main() {
 	
