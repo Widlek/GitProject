@@ -1,4 +1,4 @@
-﻿#include "Student.h"
+﻿#include "StudentHeader.h"
 #include "GroupHeader.h"
 
 int main() {
