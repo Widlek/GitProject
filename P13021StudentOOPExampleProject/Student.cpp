@@ -1,4 +1,4 @@
-﻿#include "Student.h"
+﻿#include "StudentHeader.h"
 
 // default constructor of Student
 Student::Student() {
