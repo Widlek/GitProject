@@ -1,4 +1,4 @@
-﻿#include "Group.h"
+﻿#include "GroupHeader.h"
 
 Group::Group() {
 	name = "no name";
