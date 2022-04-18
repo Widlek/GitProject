@@ -1,6 +1,6 @@
 ﻿#pragma once
 #include "Header.h"
-#include "Student.h"
+#include "StudentHeader.h"
 
 class Group {
 private:
