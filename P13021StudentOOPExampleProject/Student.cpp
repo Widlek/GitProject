@@ -1,20 +1,17 @@
 ﻿#include "StudentHeader.h"
 
-// default constructor of Student
 Student::Student() {
 	name = "no name";
 	age = 14;
 	mark = 4;
 }
 
-// constructor of Student with params
 Student::Student(string name, int age, double mark) {
 	this->name = name;
 	this->age = age;
 	this->mark = mark;
 }
 
-// destructor of Student
 Student::~Student() {
 
 }
